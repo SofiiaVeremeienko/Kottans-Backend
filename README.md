@@ -1,2 +1,2 @@
 # Kottans-Backend
-# Git Basics 
+git clone https://www.udacity.com/course/version-control-with-git--ud123 
